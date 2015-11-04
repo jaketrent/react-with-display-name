@@ -1,6 +1,6 @@
 {
   "name": "react-with-display-name",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Higher-order component that sets the display name",
   "main": "index.js",
   "scripts": {

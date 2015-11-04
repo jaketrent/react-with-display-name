@@ -1,3 +1,1 @@
-import withDisplayName from './lib/with-display-name'
-
-export default withDisplayName
+module.exports = require('./lib/with-display-name')
