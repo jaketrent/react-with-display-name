@@ -1,3 +1,3 @@
-import withDisplayName from './src/with-display-name'
+import withDisplayName from './lib/with-display-name'
 
 export default withDisplayName
