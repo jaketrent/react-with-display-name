@@ -5,7 +5,7 @@ export default function withDisplayName(displayName) {
     return class DisplayNameSetter extends React.Component {
       static displayName = displayName
       render() {
-        return <WrappedComponent />
+        return <WrappedComponent {...this.props} />
       }
     }
   }
